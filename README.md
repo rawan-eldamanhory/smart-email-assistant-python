@@ -23,7 +23,7 @@ This project demonstrates real-world API integration, OAuth2 authentication, ema
 ## Project Structure
 
 ```
-project1_email_assistant/
+smart_email_assistant/
 ├── email_assistant.py      # Main application
 ├── email_templates.py      # Email templates
 ├── requirements.txt        # Dependencies
